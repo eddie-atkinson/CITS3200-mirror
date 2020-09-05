@@ -1,0 +1,19 @@
+{
+  "name": "page-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddie-atkinson/CITS3200-mirror.git"
+  },
+  "author": "Eddie Atkinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eddie-atkinson/CITS3200-mirror/issues"
+  },
+  "homepage": "https://github.com/eddie-atkinson/CITS3200-mirror#readme"
+}
