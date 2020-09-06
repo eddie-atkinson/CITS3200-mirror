@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/eddie-atkinson/CITS3200-mirror/issues"
   },
-  "homepage": "https://github.com/eddie-atkinson/CITS3200-mirror#readme"
+  "homepage": "https://github.com/eddie-atkinson/CITS3200-mirror#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.8.1"
+  }
 }
